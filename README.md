@@ -9,11 +9,11 @@ prévention des maladies (CDC).
 Cassandra, en utilisant les outils appropriés pour extraire les données et les charger dans la base de 
 données.
 
-2.Indexation des données dans Elastic Search pour faciliter leur recherche et leur 
+2. Indexation des données dans Elastic Search pour faciliter leur recherche et leur 
 traitement.Nous avons donc utiliser les fonctionnalités d'Elastic Search pour créer des index, définir des 
 mappings et configurer des paramètres de recherche.
 
-3.Utilisation de  Kibana pour visualiser les données de Covid-19 et créer des tableaux de 
+3. Utilisation de  Kibana pour visualiser les données de Covid-19 et créer des tableaux de 
 bord interactifs pour suivre l'évolution de la pandémie: utilisation des fonctionnalités de 
 visualisation de Kibana pour créer des graphiques, des cartes et des diagrammes pour mieux 
 comprendre les données.
