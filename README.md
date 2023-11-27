@@ -1,5 +1,3 @@
 # ProjetElasticSearch
-
-Membre du groupe:
--N'KPEDJI Afoua Kpami Florence
+By: N'KPEDJI Afoua Kpami Florence
 
